@@ -4,7 +4,7 @@ I'm Manohar.
 </p>
 
 <div align='center' >
-<a align='center' href="https://twitter.com/manoharglm">
+<a href="https://twitter.com/manoharglm">
   <img align="left" alt="Manohar's Twitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/manoharglm/">
