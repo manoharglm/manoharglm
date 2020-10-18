@@ -18,6 +18,7 @@ I'm Manohar.
 <a href="https://www.hackerrank.com/manoharglm">
   <img align="left" alt="Manohar's hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
 </a>
+<br />
 
 ![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=Node.js&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=React&logoColor=white&color=2bbc8a)
@@ -37,4 +38,3 @@ I'm Manohar.
 
 <h1 align='center'><i>Stay awesome!</i></h1>
 
-<br />
