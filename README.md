@@ -4,6 +4,8 @@ I'm Manohar.
 </p>
 
 <div align='center' >
+<div align='center' >
+
 <a href="https://twitter.com/manoharglm">
   <img align="left" alt="Manohar's Twitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -18,6 +20,8 @@ I'm Manohar.
 <a href="https://www.hackerrank.com/manoharglm">
   <img align="left" alt="Manohar's hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
 </a>
+</div>
+
 <br />
 
 ![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=Node.js&logoColor=white&color=2bbc8a)
