@@ -1,7 +1,11 @@
 <h1 align='center'> Hi! :wave:</h1>
-<p align='center'>
-I'm Manohar.
-</p>
+
+<h3 align='center'><i>I'm Manohar.
+</i></h3>
+<h3><i align='center'>
+MERN Stack & React Native Developer
+</i>
+  </h3>
 
 <div align='center' >
 <div align='center' >
