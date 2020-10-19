@@ -2,7 +2,7 @@
 
 <h3 align='center'><i>I'm Manohar.
 </i></h3>
-<h3><i align='center'>
+<h3 align='center'><i>
 MERN Stack & React Native Developer
 </i>
   </h3>
@@ -13,14 +13,15 @@ MERN Stack & React Native Developer
 <a href="https://twitter.com/manoharglm">
   <img  alt="Manohar's Twitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
+&nbsp;
 <a href="https://www.linkedin.com/in/manoharglm/">
   <img alt="Manohar's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-
+&nbsp;
 <a href="https://www.instagram.com/the_duude_abides/">
   <img  alt="Manohar's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-
+&nbsp;
 <a href="https://www.hackerrank.com/manoharglm">
   <img alt="Manohar's hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
 </a>
