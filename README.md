@@ -40,7 +40,8 @@ MERN Stack & React Native Developer
 <details>
 <summary>📈 My GitHub Stats</summary>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=thecodeabides&show_icons=true&theme=gotham" alt="thecodeabides" />
+ ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=thecodeabides&layout=compact)
+
 
 </details>
 </div>
