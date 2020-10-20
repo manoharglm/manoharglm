@@ -1,5 +1,5 @@
-<h1 align='center'> Hi! :wave:</h1>
 
+<h2 align='center'> <i>Hi! :wave:</i></h2>
 <h3 align='center'><i>I'm Manohar.
 </i></h3>
 <h3 align='center'><i>
