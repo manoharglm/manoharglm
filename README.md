@@ -44,6 +44,9 @@ MERN Stack & React Native Developer
 
 
 </details>
+[![Spotify](https://thecodeabides.vercel.app/api/spotify)](https://open.spotify.com/user/64xalnvo3z5g21vuu53yyoy32)
+
+
 </div>
 
 <h1 align='center'><i>Stay awesome!</i></h1>
