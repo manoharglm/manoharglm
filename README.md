@@ -36,15 +36,23 @@ MERN Stack & React Native Developer
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 
 
+<table width="100%"> 
+  <tr>
+  <td width="50%" align='center'>
+      
+&nbsp; <br> [![Spotify](https://thecodeabides.vercel.app/api/spotify)](https://open.spotify.com/user/64xalnvo3z5g21vuu53yyoy32)
+
+
+  </td>
+  <td width="50%" align='center'>
+
+&nbsp; <br> ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=thecodeabides&layout=compact)
+
+  </td>
+  </table>
 
 <details>
-<summary>📈 My GitHub Stats</summary>
 
- ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=thecodeabides&layout=compact)
-
-
-</details>
-&nbsp; <br> ![Spotify](https://thecodeabides.vercel.app/api/spotify)
 
 
 </div>
