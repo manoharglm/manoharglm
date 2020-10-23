@@ -51,9 +51,6 @@ MERN Stack & React Native Developer
   </td>
   </table>
 
-<details>
-
-
 
 </div>
 
