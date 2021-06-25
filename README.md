@@ -42,7 +42,7 @@ MERN Stack & React Native Developer
   </td>
   <td width="50%" align='center'>
 
-&nbsp; <br> ![Top Languages Card](https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=manoharglm&layout=compact)
+&nbsp; <br> ![Top Languages Card](https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=manoharglm&layout=compact&theme=dark)
 
   </td>
   </table>
