@@ -11,15 +11,15 @@ MERN Stack & React Native Developer
 <div align='center' >
 
 <a href="https://twitter.com/manoharglm">
-  <img  alt="Manohar's Twitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img  alt="Manohar's Twitter | Twitter" width="35px" src="https://img.icons8.com/color/48/000000/twitter.png" />
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/manoharglm/">
-  <img alt="Manohar's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img alt="Manohar's LinkdeIN" width="35px" src="https://img.icons8.com/fluency/48/000000/linkedin.png" />
 </a>
 &nbsp;
 <a href="https://www.hackerrank.com/manoharglm">
-  <img alt="Manohar's hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
+  <img alt="Manohar's hackerrank" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/HackerRank_logo.png/120px-HackerRank_logo.png" />
 </a>
 </div>
 
