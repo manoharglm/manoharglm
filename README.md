@@ -1,4 +1,6 @@
+# 👋 Hi, I'm Manohar!
 
+## 🚀 About Me
 Trained in MERN stack and been working as a React Native Developer for the past six years, Strong knowledge in creating reusable components in React and ability to write clean and efficient JS with ES6 syntax
 
 # ☎️ Contact information
