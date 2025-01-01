@@ -1,54 +1,40 @@
 
-<h2 align='center'> <i>Hi! :wave:</i></h2>
-<h3 align='center'><i>I'm Manohar.
-</i></h3>
-<h3 align='center'><i>
-MERN Stack & React Native Developer
-</i>
-  </h3>
+> Trained in MERN stack and been working as a React Native Developer for the past six years, Strong knowledge in creating reusable components in React and ability to write clean and efficient JS with ES6 syntax
+> 
 
-<div align='center' >
-<div align='center' >
+# ☎️ Contact information
 
-<a href="https://twitter.com/manoharglm">
-  <img  alt="Manohar's Twitter | Twitter" width="35px" src="https://img.icons8.com/color/48/000000/twitter.png" />
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/manoharglm/">
-  <img alt="Manohar's LinkdeIN" width="35px" src="https://img.icons8.com/fluency/48/000000/linkedin.png" />
-</a>
-&nbsp;
-<a href="https://www.hackerrank.com/manoharglm">
-  <img alt="Manohar's hackerrank" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/HackerRank_logo.png/120px-HackerRank_logo.png" />
-</a>
-</div>
+📧 [manohargunduboina@gmail.com](mailto:manohargunduboina@gmail.com)
 
-<br />
+🐦 [@manoharglm](https://twitter.com/manoharglm)
 
-![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=Node.js&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=React&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=apple&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-VScode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
+🔗 [LinkedIn](https://www.linkedin.com/in/manoharglm/)
 
+---
 
-<table width="100%"> 
-  <tr>
-  <td width="50%" align='center'>
-      
-&nbsp; <br> [![Spotify](https://thecodeabides.vercel.app/api/spotify)](https://open.spotify.com/user/64xalnvo3z5g21vuu53yyoy32)
+# **👩🏻‍💻** Work experience
 
+## Senior Software Engineer (SDE II)
 
-  </td>
-  <td width="50%" align='center'>
+***LatitudePay Asia**, Bengaluru, Karnataka, India – (Jun 2020 - Present)*
 
-&nbsp; <br> [![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=manoharglm&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+- *Released Malaysian and Indonesian versions of the apps successfully*
+- *One of the Founding team members*
+- *Setup a CI/CD pipeline for Android and iOS releases using Fastlane and CircleCI*
+- *Integrated payment libraries like Stripe and Omise into React Native application*
+- *Worked on Dynamic links handling using Firebase*
 
-  </td>
-  </table>
+## Software Engineer
 
+***MountBlue Technologies**, Bengaluru, Karnataka, India – (Feb 2019 - Mar 2020)*
 
-</div>
+- *Went through intense training over MERN Stack in initial 3 months under the guidance of experienced mentors*
+- *Created multiple reusable components for mobile app*
+- *Integrated Redux into the existing RN application*
 
-<h1 align='center'><i>Stay awesome!</i></h1>
+---
+
+### Javascript ⭐️⭐️⭐️⭐️
+
+My "native" programming language, I've worked with it for over 6 years. I've used it in the frontend with React Native React and Redux, in the backend for APIs with Node, Express, testing automation using Mocha, and later on, Jest.
 
