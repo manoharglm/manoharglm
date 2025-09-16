@@ -35,7 +35,7 @@ Trained in MERN stack and been working as a React Native Developer for the past 
 
 ---
 
-### Javascript ⭐️⭐️⭐️⭐️⭐️
+### Javascript ⭐️⭐️⭐️⭐️
 
 My "native" programming language, I've worked with it for over 6 years. I've used it in the frontend with React Native React and Redux, in the backend for APIs with Node, Express, testing automation using Mocha, and later on, Jest.
 
